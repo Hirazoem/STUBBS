@@ -1,0 +1,24 @@
+C:\Users\bryan\source\repos\STUBBS APPLICATION\STUBBS APPLICATION\bin\Debug\net6.0-windows\STUBBS APPLICATION.exe
+C:\Users\bryan\source\repos\STUBBS APPLICATION\STUBBS APPLICATION\bin\Debug\net6.0-windows\STUBBS APPLICATION.dll
+C:\Users\bryan\source\repos\STUBBS APPLICATION\STUBBS APPLICATION\obj\Debug\net6.0-windows\STUBBS APPLICATION.vbproj.AssemblyReference.cache
+C:\Users\bryan\source\repos\STUBBS APPLICATION\STUBBS APPLICATION\obj\Debug\net6.0-windows\STUBBS_APPLICATION.Form1.resources
+C:\Users\bryan\source\repos\STUBBS APPLICATION\STUBBS APPLICATION\obj\Debug\net6.0-windows\STUBBS_APPLICATION.Form2.resources
+C:\Users\bryan\source\repos\STUBBS APPLICATION\STUBBS APPLICATION\obj\Debug\net6.0-windows\STUBBS_APPLICATION.Form3.resources
+C:\Users\bryan\source\repos\STUBBS APPLICATION\STUBBS APPLICATION\obj\Debug\net6.0-windows\STUBBS_APPLICATION.Form4.resources
+C:\Users\bryan\source\repos\STUBBS APPLICATION\STUBBS APPLICATION\obj\Debug\net6.0-windows\STUBBS_APPLICATION.Form5.resources
+C:\Users\bryan\source\repos\STUBBS APPLICATION\STUBBS APPLICATION\obj\Debug\net6.0-windows\STUBBS_APPLICATION.Form6.resources
+C:\Users\bryan\source\repos\STUBBS APPLICATION\STUBBS APPLICATION\obj\Debug\net6.0-windows\STUBBS_APPLICATION.Resources.resources
+C:\Users\bryan\source\repos\STUBBS APPLICATION\STUBBS APPLICATION\obj\Debug\net6.0-windows\STUBBS APPLICATION.vbproj.GenerateResource.cache
+C:\Users\bryan\source\repos\STUBBS APPLICATION\STUBBS APPLICATION\obj\Debug\net6.0-windows\STUBBS APPLICATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryan\source\repos\STUBBS APPLICATION\STUBBS APPLICATION\obj\Debug\net6.0-windows\STUBBS APPLICATION.AssemblyInfoInputs.cache
+C:\Users\bryan\source\repos\STUBBS APPLICATION\STUBBS APPLICATION\obj\Debug\net6.0-windows\STUBBS APPLICATION.AssemblyInfo.vb
+C:\Users\bryan\source\repos\STUBBS APPLICATION\STUBBS APPLICATION\obj\Debug\net6.0-windows\STUBBS APPLICATION.vbproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\STUBBS APPLICATION\STUBBS APPLICATION\obj\Debug\net6.0-windows\STUBBS APPLICATION.dll
+C:\Users\bryan\source\repos\STUBBS APPLICATION\STUBBS APPLICATION\obj\Debug\net6.0-windows\refint\STUBBS APPLICATION.dll
+C:\Users\bryan\source\repos\STUBBS APPLICATION\STUBBS APPLICATION\obj\Debug\net6.0-windows\STUBBS APPLICATION.pdb
+C:\Users\bryan\source\repos\STUBBS APPLICATION\STUBBS APPLICATION\bin\Debug\net6.0-windows\STUBBS APPLICATION.deps.json
+C:\Users\bryan\source\repos\STUBBS APPLICATION\STUBBS APPLICATION\bin\Debug\net6.0-windows\STUBBS APPLICATION.runtimeconfig.json
+C:\Users\bryan\source\repos\STUBBS APPLICATION\STUBBS APPLICATION\bin\Debug\net6.0-windows\STUBBS APPLICATION.pdb
+C:\Users\bryan\source\repos\STUBBS APPLICATION\STUBBS APPLICATION\obj\Debug\net6.0-windows\STUBBS APPLICATION.genruntimeconfig.cache
+C:\Users\bryan\source\repos\STUBBS APPLICATION\STUBBS APPLICATION\obj\Debug\net6.0-windows\ref\STUBBS APPLICATION.dll
+C:\Users\bryan\source\repos\STUBBS APPLICATION\STUBBS APPLICATION\obj\Debug\net6.0-windows\STUBBS_APPLICATION.Form7.resources
